@@ -1,0 +1,6 @@
+PatientID,FirstName,LastName,Age,Department,AdmissionDate
+1,John,Miller,45,Cardiology,02-Jan-25
+2,Emma,Collins,32,Neurology,05-Jan-25
+3,Lucas,Brown,58,Orthopedics,07-Jan-25
+4,Sophia,Green,40,Cardiology,10-Jan-25
+5,Ethan,White,29,Pediatrics,12-Jan-25
