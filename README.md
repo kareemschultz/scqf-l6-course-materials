@@ -2,6 +2,10 @@
 
 Foundation Diploma in Business & IT (SCQF Level 6, Batch 2025) — Jain Online via KareTech Solutions.
 
+## Session Handoff
+
+- Latest Codex handoff/context: `CODEX_SESSION_HANDOFF_2026-02-24.md`
+
 ## Repository Structure
 
 ```
