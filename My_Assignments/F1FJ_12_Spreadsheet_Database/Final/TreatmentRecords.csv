@@ -1,6 +1,0 @@
-RecordID,PatientID,TreatmentType,Cost,DaysAdmitted,DischargeDate
-101,1,Angiography,35000,4,06-Jan-25
-102,2,Brain MRI,18000,2,07-Jan-25
-103,3,Joint Replacement,52000,10,17-Jan-25
-104,4,Stress Test,8000,1,11-Jan-25
-105,5,Child Wellness,5000,1,13-Jan-25
