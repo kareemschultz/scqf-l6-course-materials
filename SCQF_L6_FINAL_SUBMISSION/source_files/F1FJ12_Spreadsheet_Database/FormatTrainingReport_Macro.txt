@@ -1,0 +1,40 @@
+
+Sub FormatTrainingReport()
+'
+' FormatTrainingReport Macro
+' Formats the Employee Training data with professional styling
+'
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Sheets("Employee_Training")
+
+    Dim lastRow As Long
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+
+    ' Bold headers
+    ws.Range("A1:G1").Font.Bold = True
+    ws.Range("A1:G1").Font.Size = 11
+
+    ' Fill header row with dark blue
+    ws.Range("A1:G1").Interior.Color = RGB(0, 51, 102)
+    ws.Range("A1:G1").Font.Color = RGB(255, 255, 255)
+
+    ' Format Cost column as currency
+    ws.Range("F2:F" & lastRow).NumberFormat = Chr(163) & "#,##0.00"
+
+    ' AutoFit all columns
+    ws.Range("A1:G" & lastRow).Columns.AutoFit
+
+    ' Add borders
+    ws.Range("A1:G" & lastRow).Borders.LineStyle = xlContinuous
+    ws.Range("A1:G" & lastRow).Borders.Weight = xlThin
+
+    ' Alternate row shading
+    Dim i As Long
+    For i = 2 To lastRow
+        If i Mod 2 = 0 Then
+            ws.Range("A" & i & ":G" & i).Interior.Color = RGB(220, 230, 241)
+        End If
+    Next i
+
+    MsgBox "Training Report formatted successfully!", vbInformation, "Format Complete"
+End Sub

@@ -1,0 +1,92 @@
+================================================================================
+  F1FE12 - WORD PROCESSING AND PRESENTING: EVIDENCE CHECKLIST
+================================================================================
+
+  Capture the following screenshots and embed them in your report.
+
+================================================================================
+  TASK A - WORD DOCUMENT SCREENSHOTS
+================================================================================
+
+  [ ] 1. Completed conference document (page 1 showing TOC)
+      Show the first page with the automatic Table of Contents visible.
+
+  [ ] 2. Heading styles applied
+      Show the Styles pane (Ctrl + Alt + Shift + S) with Heading 1 and
+      Heading 2 highlighted / in use. Or show the Home tab with styles
+      visible while a heading is selected.
+
+  [ ] 3. Header and/or Footer
+      Show the header or footer area with your name, page number, or
+      other required content visible.
+
+  [ ] 4. Logo with text wrapping
+      Show the logo image in the document. Right-click the image and show
+      the Wrap Text options, or show the Layout Options popup confirming
+      the wrapping style (e.g. Tight, Square).
+
+  [ ] 5. Formatted agenda table
+      Show the table with correct column widths, header shading, and
+      border formatting.
+
+  [ ] 6. Mail merge - template with field codes
+      Show the badge/letter template with <<MergeField>> codes visible.
+
+  [ ] 7. Mail merge - preview with real data
+      Show Preview Results toggled on, displaying actual delegate names.
+
+  [ ] 8. Mail merge - final merged output
+      Show at least 2-3 merged badges/letters in the output document.
+
+================================================================================
+  TASK A - POWERPOINT SCREENSHOTS
+================================================================================
+
+  [ ] 9. Slide Sorter view
+      Show all 5 slides in Slide Sorter view so the overall structure
+      is visible.
+
+  [ ] 10. Action buttons
+       Show a slide with action buttons visible. Also show the "Action
+       Settings" dialog box (right-click button > Edit Hyperlink or
+       Action Settings) to prove the button links to another slide.
+
+  [ ] 11. Video on slide
+       Show Slide 2 (or whichever slide has video) with the video frame
+       visible. Also show the Playback tab confirming "Start: Automatically".
+
+  [ ] 12. Audio on slide
+       Show the slide with the audio icon visible. Show the Playback tab
+       confirming audio settings.
+
+  [ ] 13. Kiosk mode setting
+       Go to Slide Show > Set Up Slide Show. Show the dialog box with
+       "Browsed at a kiosk (full screen)" selected.
+
+  [ ] 14. Slide timing / auto-advance
+       Show the Transitions tab with "After:" timing set for automatic
+       advance. Or show Slide Show > Set Up > Use Timings.
+
+  [ ] 15. Copyright citation
+       Show the final slide with the copyright text/citation visible.
+
+================================================================================
+  TASK B - NO SCREENSHOTS REQUIRED
+================================================================================
+
+  Task B is written evaluation (software justification, efficiency review,
+  audience review). No additional screenshots are needed for Task B - just
+  your written text in the report.
+
+================================================================================
+  GENERAL TIPS
+================================================================================
+
+  - Capture settings dialogs, not just the final result. Assessors want to
+    see PROOF that you configured features (e.g. kiosk mode dialog, action
+    settings dialog, wrap text options).
+  - Number your figures consistently (e.g. Figure 1.1.1a, Figure 1.1.1b).
+  - Add a caption below each figure explaining what it shows.
+  - Make sure the PowerPoint screenshots show the full slide, not just a
+    cropped section.
+================================================================================

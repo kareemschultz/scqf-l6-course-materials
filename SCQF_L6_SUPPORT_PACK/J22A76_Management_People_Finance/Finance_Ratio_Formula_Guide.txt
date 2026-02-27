@@ -1,0 +1,141 @@
+================================================================================
+  ACCOUNTING RATIOS - FORMULA REFERENCE GUIDE
+================================================================================
+
+  This guide lists common accounting ratios, their formulas, and what each
+  one measures. Use this as a reference when writing your finance section.
+  You must explain each ratio IN YOUR OWN WORDS in your report.
+
+================================================================================
+  PROFITABILITY RATIOS
+================================================================================
+
+  1. GROSS PROFIT RATIO (Gross Profit Margin)
+     ─────────────────────────────────────────
+     Formula:  (Gross Profit / Revenue) x 100
+
+     Measures: The percentage of revenue remaining after deducting the
+     cost of goods sold. Shows how efficiently a business converts
+     sales into gross profit.
+
+     Example calculation:
+       Revenue = 500,000
+       Cost of Sales = 300,000
+       Gross Profit = 200,000
+       Ratio = (200,000 / 500,000) x 100 = 40%
+
+
+  2. NET PROFIT RATIO (Net Profit Margin)
+     ────────────────────────────────────
+     Formula:  (Net Profit / Revenue) x 100
+
+     Measures: The percentage of revenue remaining after ALL expenses
+     (including overheads, interest, tax). Shows overall profitability.
+
+     Example calculation:
+       Revenue = 500,000
+       Net Profit = 75,000
+       Ratio = (75,000 / 500,000) x 100 = 15%
+
+
+  3. RETURN ON CAPITAL EMPLOYED (ROCE)
+     ──────────────────────────────────
+     Formula:  (Operating Profit / Capital Employed) x 100
+
+     Where Capital Employed = Total Assets - Current Liabilities
+
+     Measures: How effectively the business uses its total capital
+     (both equity and long-term debt) to generate profit.
+
+================================================================================
+  LIQUIDITY RATIOS
+================================================================================
+
+  4. CURRENT RATIO
+     ─────────────
+     Formula:  Current Assets / Current Liabilities
+
+     Measures: Whether the business can pay its short-term debts with
+     its short-term assets. A ratio of 1.5:1 to 2:1 is generally
+     considered healthy.
+
+     Example calculation:
+       Current Assets = 120,000
+       Current Liabilities = 80,000
+       Ratio = 120,000 / 80,000 = 1.5:1
+
+
+  5. ACID TEST RATIO (Quick Ratio)
+     ─────────────────────────────
+     Formula:  (Current Assets - Inventory) / Current Liabilities
+
+     Measures: Same as current ratio but EXCLUDES inventory (stock),
+     because inventory cannot always be sold quickly. More conservative
+     measure of short-term liquidity.
+
+     Example calculation:
+       Current Assets = 120,000
+       Inventory = 40,000
+       Current Liabilities = 80,000
+       Ratio = (120,000 - 40,000) / 80,000 = 1:1
+
+================================================================================
+  EFFICIENCY RATIOS
+================================================================================
+
+  6. INVENTORY TURNOVER
+     ──────────────────
+     Formula:  Cost of Sales / Average Inventory
+
+     Or expressed in days:
+     (Average Inventory / Cost of Sales) x 365
+
+     Measures: How many times the business sells and replaces its
+     stock in a year. Higher turnover = faster-moving stock.
+
+
+  7. TRADE RECEIVABLES DAYS (Debtor Days)
+     ─────────────────────────────────────
+     Formula:  (Trade Receivables / Revenue) x 365
+
+     Measures: How many days on average it takes customers to pay.
+     Lower = better cash flow.
+
+
+  8. TRADE PAYABLES DAYS (Creditor Days)
+     ────────────────────────────────────
+     Formula:  (Trade Payables / Cost of Sales) x 365
+
+     Measures: How many days on average the business takes to pay
+     its suppliers.
+
+================================================================================
+  HOW TO USE RATIOS IN YOUR REPORT
+================================================================================
+
+  For each ratio you discuss:
+  1. State the formula clearly
+  2. Explain what the ratio measures in plain language
+  3. Give a worked example with numbers (you can make up simple figures)
+  4. Explain what the result means for business decision-making
+  5. Mention any limitations (e.g. current ratio ignores cash timing)
+
+  DO NOT just list formulas. The assessor wants to see that you understand
+  what each ratio TELLS a business owner or manager.
+
+================================================================================
+  KEY TERMINOLOGY
+================================================================================
+
+  Revenue / Turnover / Sales    = Money received from selling goods/services
+  Cost of Sales / Cost of Goods = Direct costs of producing what was sold
+  Gross Profit                  = Revenue minus Cost of Sales
+  Net Profit                    = Revenue minus ALL costs
+  Operating Profit              = Profit before interest and tax
+  Current Assets                = Cash, stock, debtors (receivable within 1 year)
+  Current Liabilities           = Debts due within 1 year
+  Capital Employed              = Total assets minus current liabilities
+  Trade Receivables             = Money owed TO the business by customers
+  Trade Payables                = Money owed BY the business to suppliers
+
+================================================================================

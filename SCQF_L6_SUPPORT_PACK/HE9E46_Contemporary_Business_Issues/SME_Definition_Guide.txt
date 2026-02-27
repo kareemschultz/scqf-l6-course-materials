@@ -1,0 +1,112 @@
+================================================================================
+  SME DEFINITION GUIDE - KEY FACTS AND CRITERIA
+================================================================================
+
+  This guide provides factual reference information about SME definitions.
+  Use it to understand the criteria, then write your own explanation in
+  your report using your own words and your own chosen examples.
+
+================================================================================
+  WHAT DOES SME STAND FOR?
+================================================================================
+
+  SME = Small and Medium-sized Enterprise
+
+  These are businesses that fall below certain thresholds for number of
+  employees, annual turnover, and/or balance sheet total.
+
+================================================================================
+  EU / UK DEFINITION (Most commonly used in SQA assessments)
+================================================================================
+
+  Category        | Employees  | Annual Turnover    | Balance Sheet Total
+  ────────────────|────────────|────────────────────|────────────────────
+  Micro           | < 10       | Up to 2 million    | Up to 2 million
+  Small           | < 50       | Up to 10 million   | Up to 10 million
+  Medium          | < 250      | Up to 50 million   | Up to 43 million
+
+  To qualify as an SME, a business must meet the employee threshold AND
+  at least one of the two financial thresholds.
+
+  Note: Figures above are in Euros (EU definition). UK equivalents are
+  broadly similar.
+
+================================================================================
+  OTHER DEFINITIONS
+================================================================================
+
+  OECD Definition:
+  - Generally defines SMEs as firms with fewer than 250 employees.
+  - Notes that definitions vary by country.
+
+  UK Companies Act 2006:
+  - Small company: turnover up to 10.2 million GBP, balance sheet up to
+    5.1 million GBP, up to 50 employees (meet 2 of 3).
+  - Medium company: turnover up to 36 million GBP, balance sheet up to
+    18 million GBP, up to 250 employees (meet 2 of 3).
+
+  US Small Business Administration (SBA):
+  - Definitions vary by industry sector.
+  - Generally: fewer than 500 employees for manufacturing, under certain
+    revenue thresholds for services.
+
+================================================================================
+  WHY SMEs MATTER
+================================================================================
+
+  Key statistics to be aware of (check for current figures when writing):
+
+  - SMEs make up approximately 99% of all businesses in the UK.
+  - They employ roughly 60% of the private sector workforce.
+  - They generate around 50% of private sector turnover.
+  - The vast majority of SMEs are micro-businesses (fewer than 10 employees).
+
+  Source for current stats: Federation of Small Businesses (fsb.org.uk)
+  or Office for National Statistics (ons.gov.uk)
+
+================================================================================
+  KEY CHARACTERISTICS TO EXPLORE IN YOUR REPORT
+================================================================================
+
+  Your brief asks you to discuss SME characteristics. Common characteristics
+  include (choose the ones your brief specifies):
+
+  1. Ownership and control
+     - Often owned and managed by the same person or family
+     - Flatter management structures
+     - Quicker decision-making but more risk concentrated on one person
+
+  2. Limited access to finance
+     - Harder to get bank loans than large firms
+     - Rely more on personal savings, family funds, or small grants
+     - May struggle to grow without external investment
+
+  3. Flexibility and adaptability
+     - Can respond to market changes faster than large organisations
+     - Less bureaucracy and shorter communication chains
+     - Can pivot business models more easily
+
+  4. Local or niche market focus
+     - Many SMEs serve local communities or specialist markets
+     - Can build strong customer relationships
+     - Vulnerable to local economic downturns
+
+  5. Limited resources
+     - Fewer staff, smaller budgets, less specialist expertise
+     - Owners often perform multiple roles
+     - Training and development may be informal
+
+  NOTE: You must apply these characteristics to a specific SECTOR that
+  your brief requires (e.g. hospitality, retail, technology, etc.).
+  Do not just list characteristics in the abstract.
+
+================================================================================
+  WHAT THE ASSESSOR EXPECTS
+================================================================================
+
+  - A clear definition of SMEs with recognised criteria (EU, OECD, or UK)
+  - Application to a specific sector, not just generic descriptions
+  - Your own examples of real SMEs in that sector
+  - Some evaluation (e.g. "this is both an advantage and a risk because...")
+
+================================================================================

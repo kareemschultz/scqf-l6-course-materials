@@ -1,0 +1,99 @@
+================================================================================
+  STEP-BY-STEP MAIL MERGE GUIDE (Microsoft Word)
+================================================================================
+
+  Mail merge lets you create multiple personalised documents (e.g. ID badges,
+  letters, labels) from a single template connected to a data source.
+
+================================================================================
+  WHAT YOU NEED BEFORE STARTING
+================================================================================
+
+  1. A Word document (your template - e.g. a badge layout or letter)
+  2. A data source file (e.g. an Excel spreadsheet with delegate names,
+     organisations, badge numbers, etc.)
+
+  Make sure your Excel file has:
+  - Column headers in Row 1 (e.g. FirstName, Surname, Organisation, BadgeID)
+  - One row per person
+  - No blank rows in the middle of the data
+  - The file is SAVED and CLOSED before starting the merge
+
+================================================================================
+  STEP-BY-STEP INSTRUCTIONS
+================================================================================
+
+  STEP 1: Open your Word template document.
+
+  STEP 2: Go to the Mailings tab on the ribbon.
+
+  STEP 3: Click "Start Mail Merge" and choose the document type:
+          - Letters (for individual letters)
+          - Labels (for address labels or badges)
+          - Directory (for a list format)
+
+  STEP 4: Click "Select Recipients" > "Use an Existing List..."
+
+  STEP 5: Browse to your Excel spreadsheet and select it.
+          - If prompted, choose the correct worksheet (e.g. Sheet1$).
+          - Tick "First row of data contains column headers".
+
+  STEP 6: Position your cursor where you want the first field to appear.
+
+  STEP 7: Click "Insert Merge Field" and select the field name
+          (e.g. FirstName). Repeat for each field you need.
+
+          Your template will now show field codes like:
+          <<FirstName>> <<Surname>>
+          <<Organisation>>
+          Badge ID: <<BadgeID>>
+
+  STEP 8: Format the merge fields as needed (font size, bold, alignment).
+
+  STEP 9: Click "Preview Results" to see actual data replacing the fields.
+          Use the arrows to scroll through different records.
+
+  STEP 10: When satisfied, click "Finish & Merge":
+           - "Edit Individual Documents" creates a new document with all
+             merged pages (useful for badges).
+           - "Print Documents" sends directly to the printer.
+
+  STEP 11: Save the merged output document separately.
+
+================================================================================
+  TIPS FOR BADGES / ID CARDS
+================================================================================
+
+  - Use a table to create the badge layout (e.g. 2 columns x 5 rows per page).
+  - Set exact row height and column width to match your desired badge size.
+  - Insert merge fields inside the table cells.
+  - Use "Labels" mode in Step 3 for automatic repetition across the page.
+
+================================================================================
+  WHAT TO SCREENSHOT FOR YOUR REPORT
+================================================================================
+
+  [ ] The Mailings ribbon with your data source connected
+  [ ] The template showing <<MergeField>> codes
+  [ ] The Preview Results view showing real data
+  [ ] The final merged output (at least 2-3 badges/pages visible)
+
+================================================================================
+  COMMON PROBLEMS AND SOLUTIONS
+================================================================================
+
+  Problem: "No items in this data source" when selecting Excel file.
+  Fix: Make sure the Excel file is closed before connecting it.
+
+  Problem: Merge fields show as <<Field>> instead of data.
+  Fix: Click "Preview Results" on the Mailings tab to toggle.
+
+  Problem: Only the first record appears.
+  Fix: Make sure you clicked "Finish & Merge" > "Edit Individual Documents"
+       and selected "All" records.
+
+  Problem: Dates or numbers look wrong.
+  Fix: Format the cells in Excel BEFORE connecting (e.g. set date format,
+       number format). Then reconnect the data source.
+
+================================================================================

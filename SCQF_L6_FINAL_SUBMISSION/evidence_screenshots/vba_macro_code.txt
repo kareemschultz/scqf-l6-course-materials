@@ -1,0 +1,24 @@
+
+Sub FormatTrainingReport()
+    Dim ws As Worksheet
+    Set ws = ThisWorkbook.Sheets("Employee_Training")
+    Dim lastRow As Long
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ws.Range("A1:G1").Font.Bold = True
+    ws.Range("A1:G1").Font.Size = 11
+    ws.Range("A1:G1").Interior.Color = RGB(0, 51, 102)
+    ws.Range("A1:G1").Font.Color = RGB(255, 255, 255)
+    ws.Range("F2:F" & lastRow).NumberFormat = Chr(163) & "#,##0.00"
+    ws.Range("A1:G" & lastRow).Columns.AutoFit
+    ws.Range("A1:G" & lastRow).Borders.LineStyle = xlContinuous
+    ws.Range("A1:G" & lastRow).Borders.Weight = xlThin
+    
+    Dim i As Long
+    For i = 2 To lastRow
+        If i Mod 2 = 0 Then
+            ws.Range("A" & i & ":G" & i).Interior.Color = RGB(220, 230, 241)
+        End If
+    Next i
+    MsgBox "Training Report formatted successfully!", vbInformation, "Format Complete"
+End Sub

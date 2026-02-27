@@ -1,0 +1,121 @@
+================================================================================
+  F1FJ12 - SPREADSHEETS AND DATABASES: SCREENSHOT CHECKLIST
+================================================================================
+
+  Capture the following screenshots and embed them in your report document.
+  Label each one clearly with a Figure number and description.
+
+  TIP: Use the Snipping Tool (Win + Shift + S) or Print Screen to capture.
+  Paste into your report and add a caption below each image.
+
+================================================================================
+  TASK A - EXCEL SCREENSHOTS
+================================================================================
+
+  [ ] 1. Filtered data view
+      Show the spreadsheet with filters applied (filter arrows visible
+      in column headers, filtered rows displayed).
+
+  [ ] 2. Column chart
+      Show the completed column chart with axis labels, title, and legend.
+
+  [ ] 3. Pivot table
+      Show the pivot table with data summarised by your chosen fields.
+
+  [ ] 4. Slicer
+      Show the slicer panel connected to your pivot table, with at least
+      one item selected to demonstrate filtering.
+
+  [ ] 5. Data validation dropdown
+      Show the cell with the dropdown arrow visible, AND show the dropdown
+      list expanded (click the arrow to show the options).
+
+  [ ] 6. Dynamic summary area
+      Show the summary formulas (e.g. SUMIFS, COUNTIFS) calculating results
+      based on the dropdown selection.
+
+  [ ] 7. Formula view (Ctrl + `)
+      Press Ctrl + ` (grave accent) to switch to formula view. Capture the
+      sheet showing actual formulas instead of values. Make sure columns are
+      wide enough that formulas are not cut off.
+
+  [ ] 8. VBA Macro code
+      Open the Visual Basic Editor (Alt + F11). Show the macro code in the
+      code window. The macro name and all lines of code should be visible.
+
+  [ ] 9. Macro result (before and after)
+      Show the data BEFORE running the macro, then show it AFTER running
+      the macro so the formatting changes are visible.
+
+  [ ] 10. VLOOKUP formula and result
+       Show the cell containing your VLOOKUP formula in the formula bar,
+       AND show the returned result in the cell.
+
+================================================================================
+  TASK A - ACCESS SCREENSHOTS
+================================================================================
+
+  [ ] 11. Table relationships diagram
+       Open the Relationships window (Database Tools > Relationships).
+       Show all tables with relationship lines connecting them.
+
+  [ ] 12. Form - Design View
+       Show your form in Design View so the layout, controls, and labels
+       are visible.
+
+  [ ] 13. Form - Form View
+       Show the form in Form View with sample data entered or displayed.
+
+  [ ] 14. Query - Design View
+       Show the query in Design View with the tables, fields, sort order,
+       and any criteria visible.
+
+  [ ] 15. Query - Datasheet View (Results)
+       Run the query and show the results in Datasheet View.
+
+================================================================================
+  TASK B - ADDITIONAL EXCEL SCREENSHOTS
+================================================================================
+
+  [ ] 16. Column chart (6-month total sales)
+       Show a column chart summarising total sales per product over the
+       full period.
+
+  [ ] 17. Line chart with trendline
+       Show a line chart with:
+       - A linear trendline added
+       - The trendline equation displayed on the chart
+       - The R-squared value displayed
+       - A 2-period forecast extension visible
+
+  [ ] 18. Accountant table with formulas
+       Show the table with Profit formula, SUMIF, and IF function.
+       Also capture a formula view (Ctrl + `) of this table.
+
+================================================================================
+  TASK B - ADDITIONAL ACCESS SCREENSHOTS
+================================================================================
+
+  [ ] 19. Second form (Design View)
+       Show the patient/treatment entry form in Design View.
+
+  [ ] 20. Second form (Form View)
+       Show the form with sample data.
+
+  [ ] 21. Second query (Design View)
+       Show the join query in Design View with both tables visible.
+
+  [ ] 22. Second query (Results)
+       Show the query output in Datasheet View.
+
+================================================================================
+  GENERAL TIPS
+================================================================================
+
+  - Make sure every screenshot is large enough to read. If text is too small,
+    zoom in before capturing.
+  - Use consistent figure numbering: Figure 1.1.1a, Figure 1.1.1b, etc.
+  - Add a one-sentence caption below each figure explaining what it shows.
+  - Do NOT include screenshots of you browsing the internet or opening files.
+    Only include screenshots that demonstrate the required technical features.
+================================================================================

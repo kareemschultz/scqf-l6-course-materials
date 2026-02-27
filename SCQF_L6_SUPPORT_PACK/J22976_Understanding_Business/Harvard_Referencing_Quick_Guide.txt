@@ -1,0 +1,114 @@
+================================================================================
+  HARVARD REFERENCING - QUICK GUIDE FOR SCQF LEVEL 6
+================================================================================
+
+  Harvard referencing has two parts:
+  1. In-text citations (inside your paragraphs)
+  2. Reference list (at the end of your document, alphabetical order)
+
+================================================================================
+  IN-TEXT CITATIONS
+================================================================================
+
+  Basic format:  (Author Surname, Year)
+
+  Examples:
+
+  One author:
+    "Staff motivation can improve productivity (Robertson, 2021)."
+
+  Two authors:
+    "The study found mixed results (Clark and Patel, 2022)."
+
+  Three or more authors:
+    "Growth was slower than expected (Williams et al., 2023)."
+
+  Direct quote (use sparingly):
+    Robertson (2021, p.45) states that "motivation is the single most
+    important factor in employee retention."
+
+  Organisation as author:
+    "SMEs account for 99% of UK businesses (Federation of Small
+    Businesses, 2024)."
+
+  No author:
+    "Sales rose by 12% (The Financial Times, 2023)."
+
+  Website:
+    "(BBC News, 2024)" or "(gov.uk, 2023)"
+
+  TIPS:
+  - Place the citation at the end of the sentence, before the full stop.
+  - If you name the author in the sentence, only put the year in brackets:
+    "Robertson (2021) argues that..."
+  - Never use footnotes for Harvard referencing.
+
+================================================================================
+  REFERENCE LIST
+================================================================================
+
+  At the end of your document, list every source you cited in alphabetical
+  order by author surname. Do NOT include sources you did not cite.
+
+  FORMAT BY SOURCE TYPE:
+
+  Book:
+    Surname, Initials. (Year) Title in Italics. Edition. Place: Publisher.
+
+    Example:
+    Robertson, A. (2021) Human Resource Management. 4th edn. London:
+    Pearson Education.
+
+  Journal article:
+    Surname, Initials. (Year) 'Article title', Journal Name in Italics,
+    Volume(Issue), pp. page-page.
+
+    Example:
+    Clark, D. and Patel, S. (2022) 'Growth strategies for small firms',
+    Journal of Business Studies, 15(3), pp. 112-128.
+
+  Website:
+    Author or Organisation (Year) Title of page. Available at: URL
+    (Accessed: Day Month Year).
+
+    Example:
+    Federation of Small Businesses (2024) UK small business statistics.
+    Available at: https://www.fsb.org.uk/uk-small-business-statistics
+    (Accessed: 10 January 2026).
+
+  Report:
+    Organisation (Year) Title of report. Place: Publisher.
+
+    Example:
+    Scottish Government (2023) Scotland's Economic Strategy. Edinburgh:
+    Scottish Government.
+
+  Newspaper article:
+    Surname, Initials. (Year) 'Article title', Newspaper Name in Italics,
+    Day Month, p. page.
+
+    Example:
+    Thomson, K. (2024) 'High street retailers face new challenges',
+    The Scotsman, 15 March, p. 7.
+
+================================================================================
+  COMMON MISTAKES TO AVOID
+================================================================================
+
+  1. Not citing sources you used. If you got information from somewhere,
+     cite it. Uncited facts look like plagiarism or made-up claims.
+
+  2. Citing sources you did not actually read. Only cite what you used.
+
+  3. Inconsistent formatting. Pick one style and stick with it throughout.
+
+  4. Missing dates. If no date is available, write (no date) or (n.d.).
+
+  5. Using "Anonymous" unnecessarily. Use the organisation name instead.
+
+  6. Forgetting the reference list. In-text citations without a reference
+     list are incomplete. The assessor needs to be able to find your sources.
+
+  7. Not alphabetising the reference list. Sort by first author surname A-Z.
+
+================================================================================
