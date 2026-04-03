@@ -6,14 +6,14 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 from pathlib import Path
 
-OUTPUT       = Path(__file__).parent / "Malaika_MGMT268_Assessment1_FINAL.docx"
-DIAGRAM      = Path(__file__).parent / "hackman_oldham_model.png"
-COMPARISON   = Path(__file__).parent / "comparison_table.png"
-GNS_DIAGRAM  = Path(__file__).parent / "gns_diagram.png"
-DIALOGUE_IMG = Path(__file__).parent / "hr_dialogue_illustration.png"
-ANIM_FRAME   = Path(__file__).parent / "animation_frame.png"
-VIDEO_PATH   = (Path(__file__).parent /
-                "hr_animation/media/videos/main/1080p60/HRMDialogueScene.mp4")
+BASE         = Path(__file__).parent.parent          # Malaika_Assignment/
+OUTPUT       = BASE / "FINAL_SUBMISSION/Malaika_MGMT268_Assessment1_FINAL.docx"
+DIAGRAM      = BASE / "01_assignment/hackman_oldham_model.png"
+COMPARISON   = BASE / "01_assignment/comparison_table.png"
+GNS_DIAGRAM  = BASE / "01_assignment/gns_diagram.png"
+DIALOGUE_IMG = BASE / "01_assignment/hr_dialogue_illustration.png"
+ANIM_FRAME   = BASE / "01_assignment/animation_frame.png"
+VIDEO_PATH   = BASE / "04_animation/hr_animation/media/videos/main/1080p60/HRMDialogueScene.mp4"
 
 STUDENT_NAME    = "Malaika Abdul-Jabar"
 STUDENT_ID      = "320122505"
@@ -250,12 +250,12 @@ def build():
     # figures inserted after specific sections
     POST_FIGURES = {
         "Why the Rational Approach Is Not Enough -- The Human Problem": (
-            COMPARISON, "Figure 2: Scientific Management vs the Behavioural Approach -- A Comparative Overview", 6.2),
+            COMPARISON, "Figure 2: Scientific Management vs the Behavioural Approach -- A Comparative Overview", 5.9),
         "Connecting It All Back to Topics 1-4": (
-            GNS_DIAGRAM, "Figure 3: Hackman & Oldham's Job Characteristics Model including Growth Need Strength (1976)", 6.2),
+            GNS_DIAGRAM, "Figure 3: Hackman & Oldham's Job Characteristics Model including Growth Need Strength (1976)", 5.9),
     }
 
-    def add_figure(img_path, caption, width=6.2):
+    def add_figure(img_path, caption, width=5.9):
         if img_path.exists():
             doc.add_picture(str(img_path), width=Inches(width))
             cap = doc.add_paragraph(caption)
@@ -292,7 +292,7 @@ def build():
                 if para == "[DIALOGUE_IMG]":
                     add_figure(DIALOGUE_IMG,
                                "Figure 4: Illustration -- The Rational vs Behavioural Debate in HRM "
-                               "(created with Excalidraw)", 6.2)
+                               "(created with Excalidraw)", 5.9)
                 elif para == "[ANIM_FRAME]":
                     add_figure(ANIM_FRAME,
                                "Figure 5: Storyboard frame from companion animation HRMDialogueScene.mp4 "

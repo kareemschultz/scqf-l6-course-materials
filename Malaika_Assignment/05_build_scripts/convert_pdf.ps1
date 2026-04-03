@@ -7,7 +7,7 @@ $files = @(
     "Malaika_MGMT268_Assessment1_WITH_VIDEO.docx"
 )
 
-$base = "C:\Users\admin\Documents\SCQF-L6-Course-Materials\Malaika_Assignment\"
+$base = "C:\Users\admin\Documents\SCQF-L6-Course-Materials\Malaika_Assignment\FINAL_SUBMISSION\"
 
 foreach ($f in $files) {
     $src = $base + $f

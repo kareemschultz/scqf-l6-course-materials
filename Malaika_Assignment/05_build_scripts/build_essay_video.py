@@ -6,9 +6,10 @@ in the Appendix B section using COM automation.
 import shutil, time
 from pathlib import Path
 
-SRC   = Path(__file__).parent / "Malaika_MGMT268_Assessment1_FINAL.docx"
-DEST  = Path(__file__).parent / "Malaika_MGMT268_Assessment1_WITH_VIDEO.docx"
-VIDEO = Path(__file__).parent / "hr_animation/media/videos/main/1080p60/HRMDialogueScene.mp4"
+BASE  = Path(__file__).parent.parent          # Malaika_Assignment/
+SRC   = BASE / "FINAL_SUBMISSION/Malaika_MGMT268_Assessment1_FINAL.docx"
+DEST  = BASE / "FINAL_SUBMISSION/Malaika_MGMT268_Assessment1_WITH_VIDEO.docx"
+VIDEO = BASE / "04_animation/hr_animation/media/videos/main/1080p60/HRMDialogueScene.mp4"
 
 if not SRC.exists():
     print(f"ERROR: Run build_essay_v2.py first to create {SRC.name}")
