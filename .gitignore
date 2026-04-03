@@ -16,5 +16,40 @@ desktop.ini
 .vscode/
 .idea/
 
-# Claude Code
-.claude/
+# Claude Code personal session data (keep skills/plugins tracked)
+.claude/settings.json
+.claude/settings.local.json
+.claude/todos/
+.claude/cache/
+
+# Node / Remotion
+node_modules/
+.venv/
+dist/
+build/
+
+# Large binary / media
+*.mp4
+*.avi
+*.mov
+*.mp3
+
+# Malaika_Assignment specific large dirs
+Malaika_Assignment/hr_animation_remotion/
+Malaika_Assignment/hr_animation/media/voiceovers/
+Malaika_Assignment/hr_animation/media/videos/
+
+# Browser automation profiles (contain auth cookies)
+browser_profile/
+profiles/
+storage_state.json
+
+# Playwright cache
+playwright-report/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+*.env

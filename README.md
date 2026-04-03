@@ -223,6 +223,32 @@ The entire build pipeline is automated with Python and Microsoft Office COM:
 
 ---
 
+## Supplementary Work — Malaika_Assignment
+
+A separate folder `Malaika_Assignment/` contains coursework assistance for a UWI Global Campus student.
+
+| Detail | Value |
+|--------|-------|
+| **Student** | Malaika Abdul-Jabar (ID: 320122505) |
+| **Course** | MGMT268 — Human Resource Management |
+| **Assignment** | Individual Discussion — Rational vs Behavioural Approach in HRM |
+| **Due** | 5 April 2026 |
+
+### Deliverables
+| File | Description |
+|------|-------------|
+| `Malaika_MGMT268_Assessment1_FINAL.pdf` | Submission-ready PDF (illustration version) |
+| `Malaika_MGMT268_Assessment1_WITH_VIDEO.pdf` | Version with companion animation reference |
+| `hr_animation/HRMDialogueScene.mp4` | Animated dialogue (Manager vs HR Manager) |
+| `hr_dialogue_illustration.png` | Excalidraw hand-drawn dialogue illustration |
+
+### Shared Skills (`.claude/skills/`)
+| Skill | Description |
+|-------|-------------|
+| `excalidraw-diagram` | Generate Excalidraw `.excalidraw` files + render to PNG via Playwright |
+
+---
+
 ## Licence
 
 This repository is for **educational reference only**. The assessment briefs are the property of SQA/JAIN College. The completed submissions are original student work and must not be copied or submitted by others.
