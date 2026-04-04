@@ -10,7 +10,14 @@
 SCQF-L6-Course-Materials/
 ├── SCQF_L6_FINAL_SUBMISSION/   # Final PDFs for 5 units (COMPLETE)
 ├── SCQF_L6_SUPPORT_PACK/       # Student reference materials
-├── Malaika_Assignment/         # MGMT268 guest assignment (Malaika Abdul-Jabar)
+├── scripts/                    # SCQF build + refine + QA scripts
+├── Malaika_Assignment/         # MGMT268 guest assignment (Malaika Abdul-Jabar, COMPLETE)
+│   ├── FINAL_SUBMISSION/       # Submit: Malaika_MGMT268_Assessment1_FINAL.pdf
+│   ├── 01_assignment/          # Figures + Excalidraw source
+│   ├── 02_course_materials/    # UWI scraped content
+│   ├── 03_research/
+│   ├── 04_animation/           # Manim animation
+│   └── 05_build_scripts/       # Build pipeline scripts
 └── .claude/                    # This config + shared skills
     ├── CLAUDE.md               # This file
     ├── skills/
@@ -46,3 +53,15 @@ powershell -ExecutionPolicy Bypass -Command "
 
 ## Footer Format (SCQF units)
 `252IFCBR0596 | Kareem Nurw Jason Schultz | [Unit Code] | [Unit Title] | Page X`
+
+## Reusable SCQF Scripts for Future Assignments
+Scripts in `scripts/` can be adapted for any Word-document assignment:
+
+| Script | Reusable functions |
+|--------|--------------------|
+| `refine_unit_d/e.py` | `replace_in_paragraph()`, `append/prepend_to_paragraph()` — AI-detection reduction |
+| `refine_units_bc.py` | `replace_in_runs()` with case-insensitive option |
+| `build_unit_d.py` | `apply_footer()`, `add_body()`, `add_bullet()`, `set_cell_shading()`, `make_table_header_row()`, PDF COM export pattern |
+| `qa_check.py` | `check_pdf_via_word()` validation pattern |
+
+**Adapt for non-SCQF work**: change footer text, citation style (Harvard→APA = line spacing 2.0, author-date), remove marks labels, adjust heading structure.
